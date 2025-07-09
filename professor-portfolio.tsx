@@ -1033,7 +1033,7 @@ export default function ProfessorPortfolio() {
       <footer className="bg-[#B6B09F] text-white py-8 relative">
         <div className="container mx-auto px-4 text-center">
           <p className="font-medium">
-            &copy; 2024 Mr. Debjit Ghosh. All rights reserved.
+            &copy; 2025 Debjit Ghosh. All rights reserved.
           </p>
         </div>
       </footer>
