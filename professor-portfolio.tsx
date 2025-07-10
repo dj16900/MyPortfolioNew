@@ -290,7 +290,7 @@ export default function ProfessorPortfolio() {
               <Card className="bg-white/50 backdrop-blur-xl border-[#B6B09F]/30 glass-morphism-card hover:bg-white/60 transition-all duration-500 hover:scale-[1.02]">
                 <CardHeader>
                   <CardTitle className="text-[#B6B09F] font-bold">
-                    Masters of Technology(M.Tech) in Computer Science (CGPA : 9.38)
+                    M.Tech in Computer Science (CGPA : 9.38)
                   </CardTitle>
                   <CardDescription className="text-[#000000] font-medium">
                     Indian Institute of Engineering Science and Technology
@@ -301,7 +301,7 @@ export default function ProfessorPortfolio() {
               <Card className="bg-white/50 backdrop-blur-xl border-[#B6B09F]/30 glass-morphism-card hover:bg-white/60 transition-all duration-500 hover:scale-[1.02]">
                 <CardHeader>
                   <CardTitle className="text-[#B6B09F] font-bold">
-                    Bachelors of Technology(B.Tech) in Computer Engineering (CGPA : 8.76)
+                    B.Tech in Computer Engineering (CGPA : 8.76)
                   </CardTitle>
                   <CardDescription className="text-[#000000] font-medium">
                     Academy of Technology 
