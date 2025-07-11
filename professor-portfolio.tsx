@@ -899,27 +899,12 @@ export default function ProfessorPortfolio() {
                     <div className="grid md:grid-cols-2 gap-4">
                       <div className="space-y-2">
                         <Label
-                          htmlFor="first_name"
-                          className="text-[#000000] font-medium">
-                          First Name
-                        </Label>
-                        <Input
-                          name="First Name"
-                          id="first_name"
-                          placeholder="your first name"
-                          required
-                          disabled={isSubmitting}
-                          className="bg-white/60 border-[#B6B09F]/30 text-[#000000] placeholder:text-[#000000]/60 focus:bg-white/80 transition-all duration-300 disabled:opacity-50"
-                        />
-                      </div>
-                      <div className="space-y-2">
-                        <Label
                           htmlFor="lname"
                           className="text-[#000000] font-medium">
-                          Last Name
+                          Your Name
                         </Label>
                         <Input
-                          name="Last Name"
+                          name="Your Name"
                           id="lname"
                           placeholder="your last name"
                           required
