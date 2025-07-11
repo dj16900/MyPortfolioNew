@@ -906,7 +906,7 @@ export default function ProfessorPortfolio() {
                         <Input
                           name="Your Name"
                           id="lname"
-                          placeholder="your last name"
+                          placeholder="your name"
                           required
                           disabled={isSubmitting}
                           className="bg-white/60 border-[#B6B09F]/30 text-[#000000] placeholder:text-[#000000]/60 focus:bg-white/80 transition-all duration-300 disabled:opacity-50"
