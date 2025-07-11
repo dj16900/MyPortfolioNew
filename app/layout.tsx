@@ -3,8 +3,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Mr. Debjit Ghosh',
-  description: 'Created by Abhirup Kumar',
-  authors: [{ name: 'Abhirup Kumar' }],
+  description: 'Created by Debjit Ghosh',
+  authors: [{ name: 'Debjit Ghosh' }],
 }
 
 export default function RootLayout({
