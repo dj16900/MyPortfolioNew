@@ -1005,12 +1005,25 @@ export default function ProfessorPortfolio() {
                         </p>
                       </div>
                       <div className="flex flex-col items-center">
-                        <Phone className="w-5 h-5 text-[#B6B09F] mb-2" />
-                        <p className="text-sm font-medium text-[#000000]">
-                          Phone
-                        </p>
-                        <p className="text-sm text-[#000000]">+91 8967952250</p>
-                      </div>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    className="w-5 h-5 text-[#B6B09F] mb-2"
+    fill="currentColor"
+    viewBox="0 0 24 24"
+  >
+    <path d="M4.98 3.5C4.98 4.88 3.88 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM.5 8h4V24h-4V8zm7.5 0h3.8v2.2h.05c.53-1 1.82-2.2 3.75-2.2 4 0 4.75 2.63 4.75 6v9H16v-8.1c0-1.93-.03-4.4-2.7-4.4-2.7 0-3.1 2.1-3.1 4.3V24H6V8z" />
+  </svg>
+  <p className="text-sm font-medium text-[#000000]">LinkedIn</p>
+  <a
+    href="https://www.linkedin.com/in/debjit-ghosh-cs"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-sm text-[#000000] underline hover:text-blue-600"
+  >
+    /in/debjit-ghosh-cs
+  </a>
+</div>
+
                       <div className="flex flex-col items-center">
                         <MapPin className="w-5 h-5 text-[#B6B09F] mb-2" />
                         <p className="text-sm font-medium text-[#000000]">
